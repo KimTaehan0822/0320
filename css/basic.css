@@ -30,7 +30,7 @@ div.menuitem p {
 }
 
 div.menuitem:hover p {
-	display: block;
+	display: flex;
 }
 
 
